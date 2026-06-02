@@ -63,11 +63,11 @@ The Overview page provides a high-level summary of business performance, includi
 
 
 
-!\[Overview Dashboard](screenshots/overview\_1.png)
+![Overview Dashboard](screenshots/overview_1.png)
 
 
 
-!\[Overview KPIs](screenshots/overview\_2.png)
+![Overview KPIs](screenshots/overview_2.png)
 
 
 
@@ -83,7 +83,7 @@ Analyze revenue performance, identify growth patterns, and understand sales dist
 
 
 
-!\[Revenue Trend Analysis](screenshots/revenue\_1.png)
+![Revenue Trend Analysis](screenshots/revenue_1.png)
 
 
 
@@ -91,7 +91,7 @@ Analyze revenue performance, identify growth patterns, and understand sales dist
 
 
 
-!\[Revenue Distribution](screenshots/revenue\_3.png)
+![Revenue Distribution](screenshots/revenue_3.png)
 
 
 
@@ -111,7 +111,7 @@ Understand customer purchasing behavior, customer value, and revenue contributio
 
 
 
-!\[Customer Analytics](screenshots/customer\_1.png)
+![Customer Analytics](screenshots/customer_1.png)
 
 
 
@@ -119,7 +119,7 @@ Understand customer purchasing behavior, customer value, and revenue contributio
 
 
 
-!\[Customer Revenue Contribution](screenshots/customer\_2.png)
+![Customer Revenue Contribution](screenshots/customer_2.png)
 
 
 
@@ -139,7 +139,7 @@ Identify top-performing products and categories that drive business growth.
 
 
 
-!\[Product Performance](screenshots/product\_1.png)
+![Product Performance](screenshots/product_1.png)
 
 
 
@@ -147,7 +147,7 @@ Identify top-performing products and categories that drive business growth.
 
 
 
-!\[Top Products Analysis](screenshots/product\_3.png)
+![Top Products Analysis](screenshots/product_3.png)
 
 
 
@@ -167,7 +167,7 @@ Evaluate regional performance and location-based revenue distribution.
 
 
 
-!\[Geographic Analysis](screenshots/geographic\_1.png)
+![Geographic Analysis](screenshots/geographic_1.png)
 
 
 
@@ -187,7 +187,7 @@ Compare multiple business metrics simultaneously to uncover deeper insights.
 
 
 
-!\[Advanced Comparison Dashboard](screenshots/advanced\_3.png)
+![Advanced Comparison Dashboard](screenshots/advanced_3.png)
 
 
 
@@ -207,7 +207,7 @@ Explore monthly, seasonal, and time-based revenue patterns.
 
 
 
-!\[Time Series Analysis](screenshots/time\_1.png)
+![Time Series Analysis](screenshots/time_1.png)
 
 
 
@@ -227,7 +227,7 @@ Data-driven recommendations generated from the complete retail analysis workflow
 
 
 
-!\[Business Recommendations](screenshots/recommendations\_1.png)
+![Business Recommendations](screenshots/recommendations_1.png)
 
 
 
